@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Moksh Agarwal
 **A passionate Web Developer || Python Developer**
 
-Email Me 👉 ✉️ **moksh8394@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **moksh8394@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
  🚀 I’m currently working on Django-based web projects<br>🌱 I’m learning Advanced Backend & Frontend Animations<br>🎯 Focused on building clean, scalable & user-friendly applications<br>⚡ I enjoy turning ideas into real-world projects
